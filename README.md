@@ -48,5 +48,5 @@ Teintes à privilégier pour l’ajout de couleur :
 #B7EA00
 
 Polices d’écriture :
-Questrial, regular 400 par Joe Prince, Laura Meseguer
-Lexend Zetta, regular 400 par Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion (logo)
+- Questrial, regular 400 par Joe Prince, Laura Meseguer
+- Lexend Zetta, regular 400 par Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion (logo)
