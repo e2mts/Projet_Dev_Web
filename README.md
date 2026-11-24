@@ -35,14 +35,18 @@ Front ( React )
 Couleurs principales : vert, turquoise et pomme
 
 Teintes de texte pour changer du noir :
-#1E3535
-#22351E
-#272817
+#1E3535,
+#22351E,
+#272817,
 #222222
 
 Teintes à privilégier pour l’ajout de couleur :
-#0A881F
-#3CB99A
-#2ECACA
-#40A250
+#0A881F ( couleur du logo ),
+#3CB99A,
+#2ECACA,
+#40A250,
 #B7EA00
+
+Polices d’écriture :
+Questrial, regular 400 par Joe Prince, Laura Meseguer
+Lexend Zetta, regular 400 par Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion (logo)
