@@ -27,4 +27,22 @@ Pas de fuite de données, et pas de possibilité de modifier des donées qui ne 
 
 Front ( React )
 - minimum en composant générique, réutilisable ( composant de tableaux, gestion de liste, form builder, modale de confirmation, pagination ou recherche )
-- interface adaptée selon le rôle (certaines actions réservées aux administrateurs)
+ interf actions réservées aux administrateurs)
+
+
+# Charte graphique
+
+Couleurs principales : vert, turquoise et pomme
+
+Teintes de texte pour changer du noir :
+#1E3535
+#22351E
+#272817
+#222222
+
+Teintes à privilégier pour l’ajout de couleur :
+#0A881F
+#3CB99A
+#2ECACA
+#40A250
+#B7EA00
